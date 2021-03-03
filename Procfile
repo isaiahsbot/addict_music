@@ -1,1 +1,1 @@
-Worker: node app.ks
+Worker: node index.js
